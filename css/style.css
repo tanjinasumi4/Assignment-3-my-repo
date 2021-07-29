@@ -1,0 +1,19 @@
+.info-background{
+    background-color: #264653 ;
+    color:  #FFFFFF;
+}
+.info-warning{
+    background-color: #E76F51 ;
+    width: 168px;
+    height: 44px;
+}
+.banner{
+    color: black;
+}
+.banner-2{
+    color: black;
+    font-weight: 700;
+}
+.sp-color{
+    color: #E76F51 ;
+}
